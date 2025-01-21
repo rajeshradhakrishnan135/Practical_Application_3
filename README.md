@@ -3,7 +3,7 @@ By Rajesh Radhakrishnan
 Date: 01/22/2025
 
 # URL of Jupyter Notebook that contains the Analysis
-https://github.com/rajeshradhakrishnan135/Practical_Application_3/blob/main/Comparing_Classifiers.ipynb
+https://github.com/rajeshradhakrishnan135/Practical_Application_3/blob/main/Comparing%20Classifiers.ipynb
 
 # Business Objective
 To classify the bank customers contacted in the marketing campaigns by their subscription to a term deposit and using the 
