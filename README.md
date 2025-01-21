@@ -16,8 +16,8 @@ marital, education, default, housing, loan, contact, month, day_of_week, campaig
 build the classification models.
 
 The dataset (total records = 41188) is an imbalanced one because the number of records with the y variable (has the client 
-subscribed a term deposit?) having a value 'yes' is 36548 whereas having a value 'no' is 4640 (implies 88.73% of the data 
-belongs to the 'yes' class)
+subscribed a term deposit?) having a value 'no' is 36548 whereas having a value 'yes' is 4640 (implies 88.73% of the data 
+belongs to the 'no' class)
 
 The analysis reveals that the Support Vector Machines (SVM) model performs the best in terms of Accuracy Score. 
 The Logistic Regression model came in second with KNearestNeighbors (KNN) in third, and Decision Trees in final place. 
